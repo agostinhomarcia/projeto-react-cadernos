@@ -3,7 +3,7 @@
 #### - Usando useState para salvar dados.
 #### - Utilizando local Storage  para salvar  e recuperar informações !
 #### - Utlização de react icons e styled components!!
-<a href=" https://form-react-three.vercel.app/">Deploy</a>
+
 
 
 # Getting Started with Create React App
