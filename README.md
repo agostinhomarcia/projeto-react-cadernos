@@ -1,78 +1,98 @@
-#### Projeto loja de cadernos com React , envolvendo:
-#### - requisições a uma api utlizando useEffect.
-#### - Usando useState para salvar dados.
-#### - Utilizando local Storage  para salvar  e recuperar informações !
-#### - Utlização de react icons e styled components!!
+
+
+<p align="center">
+   <img src="https://media.giphy.com/media/tJkHAE08fK0ZIVuu9r/giphy.gif" alt="Notebooks" width="180"/>
+</p>
 
 
 
-# Getting Started with Create React App
+<h1 align="center"></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/projeto-react-cadernos?color=DC143C">
 
-## Available Scripts
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/projeto-react-cadernos?color=DC143C">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/projeto-react-cadernos?color=DC143C">
 
-### `npm start`
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-react-cadernos?color=DC143C">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-react-cadernos?color=DC143C" /> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-react-cadernos?color=DC143C" /> 
 
-### `npm test`
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/projeto-react-cadernos?color=DC143C" /> 
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :dart: About ##
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Free Market notebook shop
 
-### `npm run eject`
+ <img src="https://github.com/agostinhomarcia/projeto-react-cadernos/blob/master/.github/gif.gif">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :sparkles: Features ##
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## :rocket: Technologies ##
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The following tools were used in this project:
 
-## Learn More
+- [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## :white_check_mark: Requirements ##
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-### Analyzing the Bundle Size
+## :checkered_flag: Starting ##
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+# Clone this project
+$ git clone https://github.com/Rafael-Yokoyama/movies.git
+# Access
+$ cd movies
+# Install dependencies
+$ yarn or npm 
+# Run the project
+$ yarn start or npm start 
+# The server will initialize in the <http://localhost:3000>
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## :memo: License ##
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is under the [MIT license](./LICENSE).
 
-### Deployment
+Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<p align="center">
+   <img src="https://media.giphy.com/media/XGy1O2nALj8D47Qkvd/giphy.gif" alt="Podcastr" width="180"/>
+</p>
+
+&#xa0;
+
+<a href="#top">Back to top </a>
