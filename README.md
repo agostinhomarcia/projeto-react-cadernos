@@ -41,7 +41,7 @@
 
 Free Market notebook shop
 
- <img src="https://github.com/agostinhomarcia/projeto-react-cadernos/blob/master/.github/gif.gif">
+ <img src="https://media.giphy.com/media/KbrSvFXCIDuIAsPOMk/giphy.gif">
 
 ## :sparkles: Features ##
 
