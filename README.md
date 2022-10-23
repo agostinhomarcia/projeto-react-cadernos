@@ -43,7 +43,7 @@
 <p align="center"> Free Market notebook shop</p>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/KbrSvFXCIDuIAsPOMk/giphy.gif" alt="Podcastr" width="650"/>
+   <img src="https://media.giphy.com/media/KbrSvFXCIDuIAsPOMk/giphy.gif" alt="Notebooks" width="650"/>
 </p>
 
 
