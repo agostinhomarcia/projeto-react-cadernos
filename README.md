@@ -40,9 +40,12 @@
 
 ## :dart: About ##
 
-Free Market notebook shop
+<p align="center"> Free Market notebook shop</p>
 
- <img src="https://media.giphy.com/media/KbrSvFXCIDuIAsPOMk/giphy.gif">
+<p align="center">
+   <img src="https://media.giphy.com/media/KbrSvFXCIDuIAsPOMk/giphy.gif" alt="Podcastr" width="650"/>
+</p>
+
 
 ## :sparkles: Features ##
 
